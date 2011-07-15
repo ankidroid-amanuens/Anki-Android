@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> 
+﻿<?xml version="1.0" encoding="utf-8"?> 
  <!-- 
  ~ Copyright (c) 2009 Andrew <andrewdubya@gmail> 
  ~ Copyright (c) 2009 Edu Zamora <edu.zasu@gmail.com> 
@@ -138,16 +138,16 @@
   <string name="use_ruby_support_summ">Se i caratteri \'[\ e \']\' sono nel testo, il testo racchiuso sarà considerato come una annotazione ruby</string>
   <string name="display_font_size">Dimensione carattere del display</string>
   <string name="display_font_size_summ">La dimensione del font da utilizzare nel display relativo alle definizioni nel mazzo. Al momento: XXX%</string>
-  <string name="card_browser_font_size">Relative font size used in card browser main view</string>
-  <string name="card_browser_font_size_summ">The font size to use in the card browser. At the moment: XXX %</string>
+  <string name="card_browser_font_size">Dimensione relativa del font usato nel browser delle carte</string>
+  <string name="card_browser_font_size_summ">La dimensione del font nel browser delle carte. Correntemente: XXX %</string>
   <string name="button_size">Dimensione relativa pulsante</string>
   <string name="button_size_summ">Dimensioni relative dei pulsanti nello schermo di revisione. Al momento: XXX %</string>
   <string name="hide_question_in_answer">Nascondere le domande mostrando la risposta?</string>
   <string name="hide_question_in_answer_summ">Determina quando la domande deve essere nascosta quando la risposta è mostrata.</string>
   <string name="deck_path">Percorso del mazzo</string>
   <string name="deck_path_summ">Percorso dove sono salvati i tuoi mazzi</string>
-  <string name="deck_order">Deck order</string>
-  <string name="deck_order_summ">Order in which decks are listed in deck picker: XXX</string>
+  <string name="deck_order">Ordine dei mazzi</string>
+  <string name="deck_order_summ">L\'ordine in cui i mazzi sono presentati nel deck picker: XXX</string>
   <string name="fullscreen_review">Ripeti a schermo intero</string>
   <string name="fullscreen_review_summ">Puoi decidere se usare tutto lo spazio dello schermo disponibile durante la revisione del mazzo</string>
   <string name="zoom">Abilita lo zoom</string>
@@ -180,8 +180,8 @@
   <string name="sync_fetch_missing_media_summ">Recupera automaticamente i contenuti multimediali durante la sincronizzazione.</string>
   <string name="fix_hebrew_text">Applica RTL per Ebraico</string>
   <string name="fix_hebrew_text_summ">Soluzione per il limitato supporto alla lingua Ebraica della piattaforma Android. Non supporta le vocali.</string>
-  <string name="default_font">Default font</string>
-  <string name="default_font_summ">Allow setting the default font used to render cards. Custom fonts should be installed on the SD card in a folder called \'fonts\' in your Anki folder.</string>
+  <string name="default_font">Font di default</string>
+  <string name="default_font_summ">Permette di impostare il font usato di default nella carte. Font custom possono essere installati sulla carta SD in una cartella \'fonts\' nel folder di Anki.</string>
   <string name="language">Lingua</string>
   <string name="language_summ">Selezionare la lingua che Ankidroid deve utilizzare. In questo momento: XXX</string>
   <string name="language_system">Lingua del sistema</string>
@@ -194,7 +194,7 @@
   <string name="about_title">Informazioni</string>
   <string name="cardeditor_title">Modica la carta</string>
   <string name="factadder_title">Aggiungi carta</string>
-  <string name="factadder_saving_error">Error saving fact</string>
+  <string name="factadder_saving_error">Errore salvando un fatto</string>
   <string name="saving_facts">Saving facts</string>
   <string name="deckcreator_title">Creatore di Corsi</string>
   <string name="model">Modello:</string>
@@ -269,7 +269,7 @@
   <string name="fact">fatto</string>
   <string name="facts">fatti</string>
   <string name="saving_changes">Salvataggio delle modifiche ...</string>
-  <string name="about_content">%1$s Flashcards for Android &lt;/h2&gt;&lt;p&gt; AnkiDroid can read .anki files produced by the desktop %2$s Anki&lt;/a&gt; software. &lt;/p&gt;&lt;p&gt; To help us make AnkiDroid better, please report any bug %3$s here&lt;/a&gt;; new feature ideas are very welcome too! Please use the %4$s wiki&lt;/a&gt; and say Hi on the %5$s forum&lt;/a&gt;.&lt;/p&gt;&lt;p&gt; AnkiDroid is %6$s open source software&lt;/a&gt;, so everyone is encouraged to %7$s join&lt;/a&gt; the %8$s contributors&lt;/a&gt; :-) Non-developers can also help, for instance by updating the wiki and screenshots, %9$s donating&lt;/a&gt; to Anki, or blogging about AnkiDroid! &lt;/p&gt;&lt;p&gt; AnkiDroid is released under the %10$s GNU-GPL v3 license&lt;/a&gt; and the source code is available %11$s here&lt;/a&gt;.</string>
+  <string name="about_content">%1$s Flashcards for Android &amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt; AnkiDroid can read .anki files produced by the desktop %2$s Anki&amp;lt;/a&amp;gt; software. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; To help us make AnkiDroid better, please report any bug %3$s here&amp;lt;/a&amp;gt;; new feature ideas are very welcome too! Please use the %4$s wiki&amp;lt;/a&amp;gt; and say Hi on the %5$s forum&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; AnkiDroid is %6$s open source software&amp;lt;/a&amp;gt;, so everyone is encouraged to %7$s join&amp;lt;/a&amp;gt; the %8$s contributors&amp;lt;/a&amp;gt; :-) Non-developers can also help, for instance by updating the wiki and screenshots, %9$s donating&amp;lt;/a&amp;gt; to Anki, or blogging about AnkiDroid! &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt; AnkiDroid is released under the %10$s GNU-GPL v3 license&amp;lt;/a&amp;gt; and the source code is available %11$s here&amp;lt;/a&amp;gt;.</string>
   <string name="studyoptions_title">Opzioni di studio</string>
   <string name="studyoptions_deck_name">Nome del mazzo</string>
   <string name="studyoptions_reviews_due">Da ripetere:</string>
@@ -499,4 +499,4 @@
     <item quantity="one">1 corso</item>
     <item quantity="other">%1$d corsi</item>
   </plurals>
-</resources>
+<string name="fix_arabic_text">Migliora il supporto per l\'arabo</string><string name="fix_arabic_text_summ">Partial workaround for limited support of Arabic by Android platform. When activated it is not possible to modify cards.</string><string name="timeout_answer_seconds">Seconds before the answer is shown</string><string name="timeout_answer_seconds_summ">Select the amount of time before answer is automatically shown</string><string name="timeout_answer_summ">After displaying the Question for a set amount of time, the answer is display automatically without user input</string><string name="timeout_answer_text">Automatic display answer</string></resources>
